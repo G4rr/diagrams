@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T10:47:11.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="3JaKfsHLqOsE2SzkvkZ1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T15:13:01.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tYKpyWb650k50YlpE0KE" version="20.6.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1601" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-0" target="9HukZJ-ubF0syhQrg-Qe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-0" value="Run script" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="20" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-1" target="9HukZJ-ubF0syhQrg-Qe-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-1" value="End script" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="720" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-4" target="9HukZJ-ubF0syhQrg-Qe-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-4" value="Schedule:&lt;br&gt;0 18 * * 0,3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="20" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-6" target="9HukZJ-ubF0syhQrg-Qe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-6" value="Depends on:&lt;br&gt;- XML Reports:&lt;br&gt;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;[EPM][Carrier][VM] Triage report - SU - urgent&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;[EPM][Carrier][VM] Triage report - S5 - filtered - fixed&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;[EPM][Carrier][VM] Triage report - S34 - filtered - fixed&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="108.75" y="60" width="332.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-8" target="9HukZJ-ubF0syhQrg-Qe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-8" value="Reporting to Jira" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="680" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-10" target="9HukZJ-ubF0syhQrg-Qe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-10" value="Generate report for manual triage." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-11" target="9HukZJ-ubF0syhQrg-Qe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-11" value="Manual Triage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="575" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-12" target="9HukZJ-ubF0syhQrg-Qe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-12" value="Perform auto triage&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="402.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-13" target="9HukZJ-ubF0syhQrg-Qe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-13" value="Change severity or skip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9HukZJ-ubF0syhQrg-Qe-18" target="9HukZJ-ubF0syhQrg-Qe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-18" value="Mapping and fetch all remediation tickets and exclude vulnerabilities from the list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-21" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-181;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335.05" y="384.58" width="14.51" height="71.79" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-22" value="Exception for QIDs: 376435, 376157, 376178&lt;br&gt;Exception for any Log4j vulnerabilities on EPM-CES, EPM-IASS (with tag: PAAS), PYPL-HBFC" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="380" width="250.49" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-24" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="200" width="15" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-25" value="&lt;p&gt;For all workstation (DATALAKE [WKS]; EPM-Endpoints; * WKS; PERSONAL) nothing to do, skip.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Mapping priority:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Cloud connectors: [*] Azure, [*] GCP, [*] AWS&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. CloudSearch [*]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Auto UCMDB [*]&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="200" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-26" value="[EPM][Carrier][VM] Triage report - SU - urgent:&lt;br&gt;- All Asset Group&lt;br&gt;- All data&amp;nbsp;&lt;br&gt;- Search List: [EPM][Carrier][VM] Urgent&lt;br&gt;&lt;br&gt;[EPM][Carrier][VM] Triage report - S5 - filtered - fixed:&lt;br&gt;- All Asset Group&lt;br&gt;- All data&amp;nbsp;&lt;br&gt;- Search List:&amp;nbsp;[EPM][Carrier][VM] Confirmed Severity 5&lt;br&gt;                          &lt;br&gt;&lt;br&gt;[EPM][Carrier][VM] Triage report - S34 - filtered - fixed:&lt;br&gt;- All Asset Group&lt;br&gt;- All data&amp;nbsp;&lt;br&gt;- Search List:&amp;nbsp;[EPM][Carrier][VM] Confirmed Severity 3+4&lt;br/&gt;                          " style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="-40" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9HukZJ-ubF0syhQrg-Qe-29" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="-40" width="48.75" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
